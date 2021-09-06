@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/img-slider-react-hooks/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/img-slider-react-hooks/static/js/main.4ca23ed6.chunk.js",
+    "main.js.map": "/img-slider-react-hooks/static/js/main.4ca23ed6.chunk.js.map",
+    "runtime-main.js": "/img-slider-react-hooks/static/js/runtime-main.40fe813d.js",
+    "runtime-main.js.map": "/img-slider-react-hooks/static/js/runtime-main.40fe813d.js.map",
+    "static/js/2.d7c7a294.chunk.js": "/img-slider-react-hooks/static/js/2.d7c7a294.chunk.js",
+    "static/js/2.d7c7a294.chunk.js.map": "/img-slider-react-hooks/static/js/2.d7c7a294.chunk.js.map",
+    "static/js/3.e5ec1735.chunk.js": "/img-slider-react-hooks/static/js/3.e5ec1735.chunk.js",
+    "static/js/3.e5ec1735.chunk.js.map": "/img-slider-react-hooks/static/js/3.e5ec1735.chunk.js.map",
+    "index.html": "/img-slider-react-hooks/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/img-slider-react-hooks/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.d7c7a294.chunk.js.LICENSE.txt": "/img-slider-react-hooks/static/js/2.d7c7a294.chunk.js.LICENSE.txt",
+    "static/media/left-arrow.6e6d7904.svg": "/img-slider-react-hooks/static/media/left-arrow.6e6d7904.svg",
+    "static/media/logo.6ce24c58.svg": "/img-slider-react-hooks/static/media/logo.6ce24c58.svg",
+    "static/media/right-arrow.f818ec0d.svg": "/img-slider-react-hooks/static/media/right-arrow.f818ec0d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40fe813d.js",
+    "static/js/2.d7c7a294.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.4ca23ed6.chunk.js"
+  ]
+}
